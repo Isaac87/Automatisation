@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite time="19.767" failures="0" tests="1" name="tests.barreservice" >
+  <testcase time="19.75" classname="tests.barreservice" name="AfficheBarreServiceTest.ta" />
+</testsuite>
